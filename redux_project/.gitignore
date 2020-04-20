@@ -1,2 +1,9 @@
 node_modules
-.idea
+.gitignore
+redux_project/package-lock.json
+/package-lock.json
+redux_project/.gitignore
+package-lock.json
+/.gitignore
+prettier.config.js
+/prettier.config.js
